@@ -1,5 +1,5 @@
 {
-  "name": "webpack-1",
+  "name": "webpack-vue",
   "version": "1.0.0",
   "description": "webpack demo",
   "main": "src/main.js",
